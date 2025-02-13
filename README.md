@@ -28,7 +28,7 @@
 ## 📫 How to Reach Me
 📍 [LinkedIn](https://www.linkedin.com/in/anandi-mahure09/)  
 📍 [GitHub](https://github.com/anandi-mahure)  
-📍 Email: anandimahure09@gmail.com  
+📍 Email: mahureanandi@gmail.com  
 
 
 <!---
