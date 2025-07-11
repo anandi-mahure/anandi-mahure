@@ -1,37 +1,41 @@
+# 👋 Hi, I'm Anandi Mahure
 
-# 👋 Hi, I’m @anandi-mahure
+🎯 **Aspiring Data Analyst / Junior Data Scientist** passionate about transforming data into actionable insights for business improvement. Currently seeking opportunities in the **UK and remote globally**.
+
+---
+
 ## 🚀 About Me
-🎓 **Master’s in Data Science** | University of Bath  
-📊 Passionate about **AI, Machine Learning, and Data-Driven Decision Making**  
-📖 Documenting my journey **from fundamentals to real-world applications**  
 
-## 🌱 My Data Science Roadmap
-🔹 **Phase 1:** Advanced Python, EDA, and Statistics  
-🔹 **Phase 2:** Machine Learning – Regression, Classification, Clustering  
-🔹 **Phase 3:** AI & Deep Learning – CNN, RNN, LSTMs  
-🔹 **Phase 4:** Finance Applications – Algorithmic Trading, Risk Modeling  
-🔹 **Phase 5:** Portfolio Projects – **EV Battery, Stock Prediction, Banking Segmentation**  
+🎓 MSc in Data Science, University of Bath  
+📊 Skilled in **Python, SQL, Power BI, Tableau, Machine Learning**  
+🛠️ Experienced with **ETL workflows, reporting automation, and dashboard development**  
+🔍 Transitioning from engineering and retail into data analytics with hands-on projects
+
+---
+
+## 🌱 What I'm Learning
+
+- Advanced Python for data analysis and visualization
+- Exploratory Data Analysis and Statistics for business insights
+- Machine Learning (Regression, Classification, Clustering)
+- Power BI and Tableau for interactive dashboards
+
+---
 
 ## 📂 Featured Projects
-### 🔋 **[EV Battery Optimization](https://github.com/anandi-mahure/EV_Battery_Optimization)**
-- Machine Learning models for **predicting battery performance**
-- **Tech Stack:** Python, Scikit-Learn, Random Forest
 
-### 📈 **[Stock Price Prediction](https://github.com/anandi-mahure/Stock_Prediction_Model)**
-- **Deep Learning models (LSTM)** to predict stock price movements  
-- **Tech Stack:** TensorFlow, yFinance API  
+🔋 **EV Battery Optimization** – Predicting battery performance using machine learning models (Python, Scikit-Learn, Random Forest)  
+📈 **Sales Analytics Dashboard** – Power BI dashboard visualizing sales KPIs and trends (SQL, Power BI)  
+💳 **Customer Segmentation** – Clustering techniques for business customer segmentation (Python, Scikit-Learn)
 
-### 💳 **[Banking Customer Segmentation](https://github.com/anandi-mahure/Banking_Customer_Segmentation)**
-- **Unsupervised Learning (K-Means, PCA)** to segment customers  
-- **Tech Stack:** Python, Scikit-Learn  
+---
 
-## 📫 How to Reach Me
-📍 [LinkedIn](https://www.linkedin.com/in/anandi-mahure09/)  
-📍 [GitHub](https://github.com/anandi-mahure)  
-📍 Email: mahureanandi@gmail.com  
+## 📫 Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/anandirm/)
+- [GitHub](https://github.com/anandi-mahure)
+- 📧 [Email](mailto:anandi09022000@gmail.com)
 
-<!---
-anandi-mahure/anandi-mahure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+*I believe in making data accessible and actionable to drive better decisions. Let’s connect if you’re looking for a practical, results-driven data professional to join your team.*
