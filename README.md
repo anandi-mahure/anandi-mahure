@@ -1,4 +1,4 @@
-# # Anandi Mahure — Data Analyst
+# Anandi Mahure — Data Analyst
 
 **MSc Data Science, University of Bath (Dean's Award for Academic Excellence, 2025)**  
 SQL · Power BI · Python · Tableau · Azure (In Progress)  
@@ -93,20 +93,3 @@ Grade: 9.35/10 | First Class Honours equivalent
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandi_Mahure-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anandirm)
 [![Email](https://img.shields.io/badge/Email-anandi.mahure27@gmail.com-D14836?style=flat&logo=gmail)](mailto:anandi.mahure27@gmail.com)
 
-*London, UK — Graduate Visa, full work rights until February 2027. Open to Data Analyst, MI Analyst, Reporting Analyst, and BI Analyst roles (remote/hybrid/on-site).*
-
-🔋 **EV Battery Optimization** – Predicting battery performance using machine learning models (Python, Scikit-Learn, Random Forest)  
-📈 **Sales Analytics Dashboard** – Power BI dashboard visualizing sales KPIs and trends (SQL, Power BI)  
-💳 **Customer Segmentation** – Clustering techniques for business customer segmentation (Python, Scikit-Learn)
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/anandirm/)
-- [GitHub](https://github.com/anandi-mahure)
-- 📧 [Email](mailto:anandi09022000@gmail.com)
-
----
-
-*I believe in making data accessible and actionable to drive better decisions. Let’s connect if you’re looking for a practical, results-driven data professional to join your team.*
