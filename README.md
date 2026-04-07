@@ -56,39 +56,50 @@ I focus on three things: **clean data foundations**, **business-ready reporting*
 
 ## Portfolio Projects
 
-### 🛒 [Retail Performance KPI Analytics System](https://github.com/anandi-mahure/retail-kpi-analytics)
-`SQL` `Python` `Power BI` `Star Schema` `DAX` `Row-Level Security`
+## Portfolio Projects
 
-End-to-end retail analytics solution processing **200,000+ transactional records**. SQL ETL pipeline with Bronze-Silver-Gold architecture, star schema data model, and a multi-page Power BI dashboard with DAX time-intelligence, Z-score shrinkage anomaly detection, RLS, and deployment pipeline configuration.
+### 💼 [ERP Financial Reconciliation Pipeline](https://github.com/anandi-mahure/erp-reconciliation-pipeline)
+`SQL` `Python` `pytest` `CI/CD` `GitHub Actions` `Data Quality`
 
-**Result:** Reporting time reduced from **45 minutes → under 5 minutes**
+Production-grade ERP reconciliation system validating **5M+ row financial datasets**. Automated variance detection, multi-source ledger reconciliation, and exception reporting pipeline. Full pytest suite, CI/CD via GitHub Actions, and professional documentation.
 
----
-
-### ☁️ [Azure End-to-End Pipeline — UK Property Market](https://github.com/anandi-mahure/azure-property-pipeline)
-`Azure Data Factory` `Azure Blob Storage` `Azure SQL` `Power BI` `Python` `HM Land Registry API`
-
-Production-pattern cloud pipeline: HM Land Registry API → Azure Blob (Bronze) → ADF transformation → Azure SQL star schema (Gold) → Power BI with scheduled monthly refresh. **4.5M+ property transaction records, 2020–2025.** Full architecture docs, ADF pipeline exports, SQL DDL, and Python ingestion scripts committed.
-
-**Result:** Full modern data stack demonstrated on real UK government open data
+⭐ **Result:** End-to-end financial data validation with automated exception flagging — production ready ✅
 
 ---
 
-### 📊 [UK Corporate Financial Intelligence Dashboard](https://github.com/anandi-mahure/uk-financial-dashboard)
-`Power BI` `Advanced DAX` `SQL` `Companies House Data`
+### 📋 [PMO Governance Dashboard](https://github.com/anandi-mahure/pmo-governance-dashboard)
+`SQL` `Python` `Power BI` `RAG Status Engine` `pytest` `CI/CD`
 
-Multi-company financial dashboard using UK Companies House filing data. Covers 5-year P&L trend analysis, actual vs budget variance, peer benchmarking, and EBITDA margin decomposition. Built for a CFO/finance director audience with bookmark views, documented assumptions, and normalised star schema across 5 dimension tables.
+Automated RAG (Red-Amber-Green) status engine for project governance across 8 SQL governance queries covering budget variance, milestone tracking, and resource utilisation. Full pytest suite, CI/CD pipeline, and Power BI dashboard integration.
 
-**Result:** Monthly board pack preparation time cut from **days → hours**
+⭐ **Result:** Project reporting time reduced significantly with automated RAG classification ✅
+
+---
+
+### 🏥 [Claims Operational Analytics](https://github.com/anandi-mahure/claims-operational-analytics)
+`SQL` `Python` `pytest` `CI/CD` `Insurance Analytics`
+
+End-to-end operational analytics pipeline for insurance claims data. Covers settlement performance, handler efficiency, regional exposure analysis, and fraud indicators. Production-grade SQL CTEs, window functions, and Python visualisation layer.
+
+⭐ **Result:** Full claims operational intelligence pipeline with fraud detection signals ✅
+
+---
+
+### 📚 [Data Analysis Foundations](https://github.com/anandi-mahure/data-analysis-foundations)
+`Python` `SQL` `Pandas` `Data Cleaning` `EDA`
+
+Structured foundations portfolio covering core data analysis techniques — data cleaning, exploratory data analysis, statistical summaries, and visualisation. Built as a companion to dbt Fundamentals certification.
+
+⭐ **Result:** Clean, documented foundations codebase ✅
 
 ---
 
 ### 🧠 [MSc Dissertation — Sentiment Analysis: Traditional ML vs Transformers](https://github.com/anandi-mahure/sentiment-analysis-dissertation)
 `Python` `HuggingFace` `DistilBERT` `Scikit-learn` `NLP` `transformers-interpret`
 
-Comparative study on sentiment classification of customer feedback. Domain-specific fine-tuning of DistilBERT with custom tokens vs SVM/Logistic Regression baselines. Particular focus on neutral and negative sentiment categories where traditional ML consistently underperforms. Model decisions validated using transformers-interpret for explainability.
+Comparative study on sentiment classification of customer feedback. Domain-specific fine-tuning of DistilBERT with custom tokens vs SVM/Logistic Regression baselines. Model decisions validated using transformers-interpret for explainability.
 
-**Result:** Macro-F1 improved from **0.66 → 0.78** · *University of Bath, MSc Data Science, 2025*
+⭐ **Result:** Macro-F1 improved from **0.66 → 0.78** · *University of Bath, MSc Data Science, 2025*
 
 ---
 
@@ -96,12 +107,12 @@ Comparative study on sentiment classification of customer feedback. Domain-speci
 
 | Category | Skills |
 |---|---|
-| **Languages** | Python (Pandas, NumPy, Scikit-learn, SQLAlchemy), SQL (CTEs, Window Functions, Stored Procedures), R (basic) |
-| **BI & Visualisation** | Power BI (DAX, RLS, Deployment Pipelines, Incremental Refresh), Tableau, Advanced Excel & Power Query |
-| **Data Engineering** | ETL Pipeline Design, Star Schema Modelling, dbt (Core), Azure Data Factory, Azure Blob Storage, Azure SQL |
-| **Cloud** | Azure (ADF, Blob Storage, Azure SQL) · AZ-900 in progress |
-| **ML & NLP** | Scikit-learn, HuggingFace Transformers, DistilBERT fine-tuning, transformers-interpret |
-| **Other** | Git/GitHub, Jupyter, Data Quality & Governance, Statistical Modelling |
+| ⭐ **Languages** | Python (Pandas, NumPy, Scikit-learn, SQLAlchemy), SQL (CTEs, Window Functions, Stored Procedures), R (basic) |
+| ⭐ **BI & Visualisation** | Power BI (DAX, RLS, Deployment Pipelines), Tableau, Advanced Excel & Power Query |
+| ⭐ **Data Engineering** | ETL Pipeline Design, Star Schema Modelling, dbt (Core — Certified), Azure Data Factory, Azure Blob Storage, Azure SQL |
+| ⭐ **Cloud** | Azure (ADF, Blob Storage, Azure SQL) |
+| ⭐ **ML & NLP** | Scikit-learn, HuggingFace Transformers, DistilBERT fine-tuning, transformers-interpret |
+| ⭐ **Other** | Git/GitHub, CI/CD (GitHub Actions), pytest, Jupyter, Data Quality & Governance |
 
 ---
 
@@ -109,21 +120,21 @@ Comparative study on sentiment classification of customer feedback. Domain-speci
 
 | Role | Company | Key Contribution |
 |---|---|---|
-| Data Analyst | Tata Consultancy Services | 5M+ row financial dataset validation; SQL/Python ETL; Power BI dashboards deployed to operations |
-| Analytics Intern | Predictea Digital (UK) | Automated analytics pipelines; BI reporting for commercial clients |
-| Engineering Intern | Tata Motors | EV telemetry data analysis; sensor data pipeline design |
-| Retail Data Analyst | Iceland Foods (UK) | Commercial KPI tracking; operational reporting in live retail environment |
+| ⭐ Data Analyst | Tata Consultancy Services | 5M+ row financial dataset validation; SQL/Python ETL; Power BI dashboards deployed to operations |
+| ⭐ Analytics Intern | Predictea Digital (UK) | Automated analytics pipelines; BI reporting for commercial clients |
+| ⭐ Engineering Intern | Tata Motors | EV telemetry data analysis; sensor data pipeline design |
+| ⭐ Retail Data Analyst | Iceland Foods (UK) | Commercial KPI tracking; operational reporting in live retail environment |
 
 ---
 
 ## Education
 
-**MSc Data Science** · University of Bath, UK · Oct 2023 – Jan 2025
-*Dean's Award for Academic Excellence — top-performing postgraduate students, distinction-level achievement*
+### 🎓 MSc Data Science · University of Bath, UK · Oct 2023 – Jan 2025
+⭐ *Dean's Award for Academic Excellence — top-performing postgraduate students, distinction-level achievement*
 Dissertation: *Computational Analysis of Sentiment in Customer Feedback using Machine Learning*
 
-**BEng Electronics & Telecommunications** · Savitribai Phule Pune University, India · 2018–2022
-9.35/10 · First Class Honours equivalent
+### 🎓 BEng Electronics & Telecommunications · Savitribai Phule Pune University, India · 2018–2022
+⭐ 9.35/10 · First Class Honours equivalent
 
 ---
 
@@ -131,20 +142,22 @@ Dissertation: *Computational Analysis of Sentiment in Customer Feedback using Ma
 
 | Certification | Provider | Status |
 |---|---|---|
-| PL-300 Power BI Data Analyst Associate | Microsoft | 🔄 In Progress |
-| Applied Skills: Power BI Reporting | Microsoft | 🔄 In Progress |
-| AZ-900 Azure Fundamentals | Microsoft | 📅 Planned |
-| Databricks Fundamentals | Databricks | 📅 Planned |
+| ⭐ dbt Fundamentals | dbt Labs | ✅ Completed April 2026 |
+| 🔄 Google Data Analytics Professional Certificate | Google / Coursera | 🔄 In Progress |
+| 🔄 Agile with Atlassian Jira | Atlassian / Coursera | 🔄 In Progress |
+| 📅 PL-300 Power BI Data Analyst Associate | Microsoft | 📅 Planned 2026 |
+| 📅 DP-900 Azure Data Fundamentals | Microsoft | 📅 Planned 2026 |
 
 ---
 
 ## What I'm Looking For
 
-Open to **Data Analyst**, **BI Analyst**, and **Analytics Engineer** roles in:
+⭐ Open to **Data Analyst**, **BI Analyst**, and **Analytics Engineer** roles in:
 
-🇬🇧 **UK** (London-based, full work rights) · 🇦🇪 **Dubai** · 🇩🇪 **Germany** · 🇦🇺 **Australia** · 🇳🇿 **New Zealand**
+🇬🇧 **UK** (London-based, full work rights until Feb 2027) · 🇦🇪 **Dubai** · 🇩🇪 **Germany** · 🇦🇺 **Australia** · 🇳🇿 **New Zealand**
 
 ---
+
 
 <div align="center">
 
